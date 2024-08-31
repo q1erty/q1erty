@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @q1erty.
-- 👀 I’m interested in cybersecurity and testing.
-- 🌱 I’m currently learning HTML, CSS and Java Script, MySQL and manual testing.
-- 💞️ I’m looking to collaborate on software testing.
+- 👀 
+- 🌱 I’m currently learning Data analysis.
+- 💞️ 
 - 📫 How to reach me ...
 
 <!---
